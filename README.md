@@ -2,7 +2,14 @@
 
 Deixa o MU Online mais fluido sem recompilar cliente nem servidor: é só colocar dois arquivos na pasta do jogo.
 
-> **Esta é uma versão gratuita e tem algumas limitações.** Para ter a versão paga, entre em contato pelo WhatsApp: [84 99632-9843](https://wa.me/5584996329843).
+> **Esta é uma versão gratuita, para teste.** Ela não é polida e é entregue como está, sem garantia de funcionamento, sem suporte e sem atualizações. Para ter a versão paga, entre em contato pelo WhatsApp: [84 99632-9843](https://wa.me/5584996329843).
+
+## Limitações da versão gratuita
+
+- Ainda tem defeitos: alguns mapas podem não funcionar, e algumas skills podem ter o efeito alterado.
+- Não garante funcionamento.
+- Não tem suporte.
+- Não recebe atualizações.
 
 **Versão atual:** veja o arquivo [VERSAO](VERSAO). O que mudou em cada uma está no [CHANGELOG](CHANGELOG.md).
 
