@@ -2,7 +2,7 @@
 
 Deixa o MU Online mais fluido sem recompilar cliente nem servidor: é só colocar dois arquivos na pasta do jogo.
 
-> **Esta é uma versão gratuita, para teste.** Ela não é polida e é entregue como está, sem garantia de funcionamento, sem suporte e sem atualizações. Para ter a versão paga, entre em contato pelo WhatsApp: [84 99632-9843](https://wa.me/5584996329843).
+> **Esta é uma versão gratuita, para teste.** Ela não é polida e é entregue como está, sem garantia de funcionamento, sem suporte e sem atualizações. A versão paga está à venda em [www.bitencourtlabs.com.br](https://www.bitencourtlabs.com.br).
 
 ## Limitações da versão gratuita
 
