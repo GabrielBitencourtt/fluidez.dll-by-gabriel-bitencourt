@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## v1.2
+
+**Mudanças**
+- A DLL não grava mais nenhum arquivo na pasta do jogo. O `Fluidez.log` deixou de existir, e pode apagar o que sobrou da versão anterior.
+- Retirado código interno que a versão publicada não usava.
+- Os dois arquivos agora mostram nome, versão e descrição nas propriedades.
+
 ## v1.1
 
 Os arquivos desta versão foram retirados. Use a v1.2 ou mais nova.
